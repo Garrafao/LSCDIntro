@@ -6,4 +6,4 @@ Each course session has a set of slides with an accompanying jupyter notebook.
 
 ## Sessions
 
-1. Two paradigms of lexical semantic change detection. [slides](lscd-slided.pdf) [notebook](lscd.ipynb)
+1. Two paradigms of lexical semantic change detection. [[slides]]lscd-slides(lscd-slides.pdf) [[notebook]](lscd.ipynb)
